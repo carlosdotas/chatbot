@@ -14,7 +14,8 @@ O Turbo Brisa é um assistente digital especializado em aluguéis de ventiladore
 - Gerencia estoque e relatórios via painel administrativo moderno
 - Permite configurar o comportamento da IA via prompt customizado
 
----
+**Protótipo funcional:** [Clique aqui para acessar o protótipo online](https://turbo-brisa-assistente-de-aluguel-de-ventiladores-960155395693.us-west1.run.app/)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
